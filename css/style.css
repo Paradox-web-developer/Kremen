@@ -317,6 +317,7 @@ body{
 	left: 0;
 	display: none;
 	transition: 1s;
+	z-index: 9999;
 	
 
 }
