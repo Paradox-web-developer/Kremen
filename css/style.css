@@ -90,7 +90,7 @@ body{
 }
 
 .btn_header_2{
-	max-width: 370px;
+	width: 370px;
 	height: 70px;
 	background-color: #634eec;
 	color: #fff;
@@ -108,7 +108,7 @@ body{
 }
 
 .btn_header_3{
-	max-width: 370px;
+	width: 370px;
 	height: 70px;
 	background-color: #8d56ae;
 	color: #fff;
@@ -153,118 +153,6 @@ body{
 }
 
 /* ------------------------ */
-/*.carousel {
-  position: relative;
-  max-width: 800px;
-  padding: 10px 40px;
-  background: #eee;
-  margin: 0 auto;
-  margin-bottom: 100px;
-}
-.carousel p {
-	color: #4b4b4b;
-	font-size: 16px;
-	text-align: center;
-	font-weight: 600;
-}
-
-.carousel img {
-  width: 400px;
-  height: 300px;
-  display: block;
-}
-
-.arrow {
-  position: absolute;
-  top: 150px;
-  padding: 0;
-  border: none;
-  font-size: 24px;
-  line-height: 24px;
-  color: #444;
-  display: block;
-}
-
-.arrow:focus {
-  outline: none;
-}
-
-.arrow:hover {
-  cursor: pointer;
-}
-
-.prev {
-  left: 7px;
-  width: 20px;
-  height:20px;
-  border-top: 2px solid #6E18C0;
-  border-right: 2px solid #6E18C0;
-  margin-right: 60px;
-  transform: rotate(-135deg);
-}
-
-.next {
-  right: 7px;
-  width: 20px;
-  height:20px;
-  border-top: 2px solid #6E18C0;
-  border-right: 2px solid #6E18C0;
-  margin-right: 60px;
-  transform: rotate(45deg);
-
-}
-
-.gallery {
-  width: 800px;
-  overflow: hidden;
-}
-
-.gallery ul {
-  height: auto;
-  width: 9999px;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  transition: margin-left 250ms;
-  font-size: 0;
-}
-
-.gallery li {
-  display: inline-block;
-}
-
-.btnSlider{
-	width: 370px;
-	height: 70px;
-	background-color: #4f39e4;
-   border-radius: 20px;
-   outline: none;
-   border: none;
-   color: #fff;
-   font-weight: 900;
-   font-size: 16px;
-}
-
-.btnSlider:hover{
-	transition: 1s;
-	background-color: #725ff2;
-}
-
-.title_carousel{
-	color: #000000;
-	font-size: 18px;
-	font-weight: 300;
-	text-align: center;
-	margin-bottom: 20px;
-}
-.sub_title_carousel{
-	color: #000000;
-	font-size: 16px;
-	font-weight: 900;
-	text-align: center;
-	margin-bottom: 15px;
-}
-*/
 
 
 /* Слайдер */
@@ -391,6 +279,12 @@ body{
 	.slider .slick-slider {
     text-align: center;
 }
+	.btn_header_2{
+		width: 300px;
+	}
+	..btn_header_3{
+		width: 300px;
+	}
 }
 
 
