@@ -90,7 +90,7 @@ body{
 }
 
 .btn_header_2{
-	width: 370px;
+	max-width: 370px;
 	height: 70px;
 	background-color: #634eec;
 	color: #fff;
@@ -108,7 +108,7 @@ body{
 }
 
 .btn_header_3{
-	width: 370px;
+	max-width: 370px;
 	height: 70px;
 	background-color: #8d56ae;
 	color: #fff;
@@ -551,20 +551,6 @@ body{
 		
 	}
 
-	/*.popup{
-	position: fixed;
-	top: 30%;
-	left: 0;
-	max-width: 500px;
-	}
-*/
-	.carousel{
-		
-	}
-
-	.gallery{
-		
-	}
 
 	.footer{
 		display: flex;
