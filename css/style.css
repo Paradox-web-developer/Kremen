@@ -118,6 +118,7 @@ body{
 	font-weight: 700;
 	border-radius: 15px;
 	outline: none;
+	margin-bottom: 20px;
 }
 
 .btn_header_3:hover{
@@ -396,6 +397,10 @@ body{
 	background-size:cover;
 	}
 
+	.content_header{
+		margin-left: 4%;
+	}
+
 	.logo img{
 		width: 115px;
 	   height: 40px;
@@ -410,28 +415,6 @@ body{
 	}
 	.menu_button{
 		display: none;
-	}
-
-	.btn_burger{
-	 display: block;
-    width: 62px;
-    height: 4px;
-    background-color: #ffff;
-    margin: 13px
-    
-	}
-	.btn_burger::before{
-		content: " ";
-		width: 62px;
-    height: 4px;
-    background-color: #ffff;
-	}
-
-	.btn_burger::after{
-		content: " ";
-		width: 62px;
-    height: 4px;
-    background-color: #ffff;
 	}
 
 	.main_blocks{
