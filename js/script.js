@@ -8,7 +8,7 @@ $(document).ready(function() {
     speed:1000,
     easing:'ease',
     infinity:true,
-    autoplay:false,
+    autoplay:true,
     autoplaySpeed:1500,
     
      responsive: [
