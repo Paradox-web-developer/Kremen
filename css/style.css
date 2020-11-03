@@ -86,7 +86,8 @@ body{
 
 
 .content_header_button{
-
+	display: block;
+	max-width: 370px;
 }
 
 .btn_header_2{
